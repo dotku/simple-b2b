@@ -4,7 +4,7 @@
 
 1. Register Your Businese as Supplier/Vendor
 2. Input/Import/Sync Products
-3. Create a 2C portal
+3. Create a 2C portal (Optional)
 
 ## B2C
 1. Buyer Registration
