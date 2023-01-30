@@ -2,7 +2,7 @@
 
 ## B2B
 
-1. Register Your Businese
+1. Register Your Businese as Supplier/Vendor
 2. Input/Import/Sync Products
 3. Create a 2C portal
 4. Buyer Registration
