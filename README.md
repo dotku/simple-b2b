@@ -5,6 +5,10 @@
 1. Register Your Businese as Supplier/Vendor
 2. Input/Import/Sync Products
 3. Create a 2C portal
-4. Buyer Registration
-5. Cart Management
-6. Payment and Checkout
+
+# B2C
+1. Buyer Registration
+2. Cart Management
+3. Payment and Checkout
+4. Receving Confirmation
+5. Return/Exchange Management
