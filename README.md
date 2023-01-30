@@ -18,14 +18,16 @@
 7. if2c
 8. ifAvaiable
 
-### Product Managment Log
+#### Product Managment Log
 1. last_modified_user
 2. last_modified_time
 3. last_modified_location
 4. last_modified_comment
 
-### Comments
+#### Comments
 1. Product ID
+2. Comment Content
+3. Comment Rate
 
 ## B2C
 1. Buyer Registration
