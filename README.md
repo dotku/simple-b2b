@@ -36,5 +36,5 @@
 4. Receving Confirmation
 5. Return/Exchange Management
 
-## Technologies
+## Key Technologies
 1. NoSQL
